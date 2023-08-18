@@ -1,0 +1,39 @@
+nav img{
+    max-width: 64px;
+    max-height: 64px;
+    object-fit: scale-down;
+    border-radius: 50%;
+}
+main{
+    text-align: center;
+}
+#codes{
+    width: 90%;
+    height: 200px;
+    margin: 20px;
+    border-radius: 15px;
+    border: 3px solid brown ;
+}
+
+#buttons button{
+
+    width: 40%;
+    border-radius: 20px;
+    padding: 20px;
+}
+nav a{
+    margin: 20px;
+}
+#title-result{
+    margin: 10px;
+    font-weight: bold;
+}
+#result{
+    max-width: 100% !important;
+    background-color: rgb(226, 223, 223);
+    color: rgb(0, 0, 0);
+    height: 200px;
+    margin: 20px;
+    border-radius: 5px;
+    border: 3px solid black;
+}
